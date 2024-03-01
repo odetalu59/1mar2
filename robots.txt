@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.dsclose.com/superjp.html/sitemap.xml
+Sitemap: https://www.dsclose.com/gilajp.html/sitemap.xml
+Sitemap: https://www.dsclose.com/gojekpot.html/sitemap.xml
+Sitemap: https://www.dsclose.com/winstrike69.html/sitemap.xml
+Sitemap: https://www.dsclose.com/jagoan86.html/sitemap.xml
+Sitemap: https://www.dsclose.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://www.dsclose.com/boosterjp.html/sitemap.xml
+Sitemap: https://www.dsclose.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://www.dsclose.com/pakong86.html/sitemap.xml
+Sitemap: https://www.dsclose.com/viral88.html/sitemap.xml
+Sitemap: https://www.dsclose.com/clan4d.html/sitemap.xml
+Sitemap: https://www.dsclose.com/dinamit4d.html/sitemap.xml
+Sitemap: https://www.dsclose.com/elang212.html/sitemap.xml
+Sitemap: https://www.dsclose.com/gori77.html/sitemap.xml
+Sitemap: https://www.dsclose.com/viral4d.html/sitemap.xml
+Sitemap: https://www.dsclose.com/playground88.html/sitemap.xml
